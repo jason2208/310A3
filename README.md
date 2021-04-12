@@ -1,3 +1,3 @@
-###APIs
+### APIs
 1. Wikipedia API: In our menu of the foods, there are some foods that are from other countries. The users might not know and would like to know what kind of food that is. Therefore, the bot would extract some part of the contents from the wikipedia search if the users input some specific words like "what is paella.". \
 2. Google Map API: Sometimes the customers' house are located at a more hidden place or inside a community. This would cause the food deliver to get lost and thus the delivery might be late. If the customers feel like their food should be delivered earlier they could report the issue to the bot. The customers can type in their address with more detail and the bot would display the map of that address to the user. With this function we could know their location better and provide a faster deliver next time.
